@@ -8,7 +8,7 @@ public class CountingBackwards{
         }
         long end = System.nanoTime();
         System.out.println("Sum: " + Math.abs(sum));
-        System.out.println("Time: " + (end - start) + " ns");
+        System.out.println("Time: " + (end - start) + "ns");
     }
 }
 

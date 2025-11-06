@@ -11,7 +11,7 @@ public class MultiplicationTable100{
 
         }
         long end = System.nanoTime();
-        System.out.println("Time: " + (end - start) + " ns");
+        System.out.println("Time: " + (end - start) + "ns");
     }
 }
 
